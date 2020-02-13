@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "release_date": "2020/02/13 00:25:00",
+  "packages": [
+    {
+      "title": "Laravel Package One",
+      "version": "0.0.1",
+      "release_date": "2020/02/13 00:25:00"
+    },
+    {
+      "title": "Laravel Package Two",
+      "version": "0.0.1",
+      "release_date": "2020/02/13 00:25:00"
+    },
+    {
+      "title": "Laravel Package One",
+      "version": "0.0.1",
+      "release_date": "2020/02/13 00:25:00"
+    }
+  ],
+  "package_url": ""
+}
